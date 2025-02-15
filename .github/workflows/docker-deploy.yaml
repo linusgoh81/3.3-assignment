@@ -33,5 +33,5 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: your_dockerhub_username/flask-app:latest
+          tags: linusgoh/flask-app:latest
           
